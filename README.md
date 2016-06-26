@@ -49,4 +49,4 @@ Finally, I use something to show the terminal with a command as it was a [curtai
 
 # Contact
 
-Don't hesitate to contact me! [https://www.twitter.com/RamonGilabert], I love to read tweets!
+Don't hesitate to [contact me](https://www.twitter.com/RamonGilabert)!, I love to read tweets!
