@@ -1,9 +1,10 @@
-<div align = "center">
-<img src="https://github.com/RamonGilabert/Terminal/blob/master/Resources/header.png" />
-</div>
 # Theme
 
 Hey there!
+
+<div align = "center">
+<img src="https://github.com/RamonGilabert/Terminal/blob/master/Resources/header.png" />
+</div>
 
 If you just want to install the theme of colors just **download** this repository and **double click** in the file **`Gilabert.terminal`**! That should open and install it automatically! :)
 
