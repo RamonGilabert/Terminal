@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center", style="margin-bottom: -10px;">
 <img src="https://github.com/RamonGilabert/Terminal/blob/master/Resources/header.png" />
 </div>
 # Theme
