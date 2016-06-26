@@ -1,11 +1,11 @@
-<div align = "center", style="margin-bottom: 1000px;">
+<div align = "center">
 <img src="https://github.com/RamonGilabert/Terminal/blob/master/Resources/header.png" />
 </div>
 # Theme
 
 Hey there!
 
-If you just want to install the theme of colors just download this repository and double click in the file `Gilabert.terminal`! That should open it and you'll have it there. :)
+If you just want to install the theme of colors just download this repository and double click in the file **`Gilabert.terminal`**! That should open it and you'll have it there. :)
 
 # Commands
 
