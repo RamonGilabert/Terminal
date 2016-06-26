@@ -52,4 +52,4 @@ I'll tidy some of the commands I have and post it here once I have more! :)
 
 # Contact
 
-Don't hesitate to **[contact me](https://www.twitter.com/RamonGilabert)!**, I love to read tweets!
+Don't hesitate to **[contact me](https://www.twitter.com/RamonGilabert)**!, I love to read tweets!
