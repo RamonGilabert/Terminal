@@ -15,7 +15,7 @@ I have some commands preinstalled that I'll keep pushing here as I have more, an
 <img src="https://github.com/RamonGilabert/Terminal/blob/master/Resources/terminal.png" />
 </div>
 
-In order to do this I use the [fish](https://fishshell.com) shell.
+In order to do this I use the **[fish](https://fishshell.com)** shell.
 
 With the fish shell, by simply editing the file located at `~/.config/fish`, you'll be able to enter your personal commands.
 
@@ -45,8 +45,10 @@ end
 
 You can do much more stuff with it, like editing the prompt, add more commands, autocompletion, etc.
 
-Finally, I use something to show the terminal with a command as it was a [curtain](https://github.com/RamonGilabert/Terminal/blob/master/Resources/curtain.png)! That is done with [TotalTerminal](http://totalterminal.binaryage.com) and even though it's not compatible with OS X 10.11, there are some tricks to make it work. Contact me if you want to learn more! :)
+Finally, I use something to show the terminal with a command as it was a [curtain](https://github.com/RamonGilabert/Terminal/blob/master/Resources/curtain.png)! That is done with **[TotalTerminal](http://totalterminal.binaryage.com)** and even though it's not compatible with OS X 10.11, there are some tricks to make it work. Contact me if you want to learn more! :)
+
+I'll tidy some of the commands I have and post it here once I have more! :)
 
 # Contact
 
-Don't hesitate to [contact me](https://www.twitter.com/RamonGilabert)!, I love to read tweets!
+Don't hesitate to **[contact me](https://www.twitter.com/RamonGilabert)!**, I love to read tweets!
